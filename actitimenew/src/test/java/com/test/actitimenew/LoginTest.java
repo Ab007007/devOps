@@ -1,4 +1,4 @@
-package java.com.intellippat.automation.actitime;
+package com.test.actitimenew;
 
 import java.util.concurrent.TimeUnit;
 
